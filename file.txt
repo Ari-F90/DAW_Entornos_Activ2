@@ -1,0 +1,3 @@
+Entornos de Desarrollo - Actividad 2:
+
+Ejercicio correspondiente a la actividad 2 de la asignatura Entornos de Desarrollo en relación a practicar con los comandos de Git.
