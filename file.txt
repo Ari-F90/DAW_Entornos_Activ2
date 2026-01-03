@@ -5,6 +5,7 @@ Ejercicio correspondiente a la actividad 2 de la asignatura Entornos de Desarrol
 El ejercicio consta de 10 puntos y se ha de entregar en Word o PDF.
 
 Los puntos a desarrollar son los siguientes:
+
 1.	Inicialización del repositorio:
 	Crea una carpeta para el proyecto e inicializa un repositorio Git con gitinit.
 	Configura tu nombre y correo en Git, si aún no lo has hecho.
