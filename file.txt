@@ -4,3 +4,41 @@ Ejercicio correspondiente a la actividad 2 de la asignatura Entornos de Desarrol
 
 El ejercicio consta de 10 puntos y se ha de entregar en Word o PDF.
 
+1.	Inicialización del repositorio:
+	Crea una carpeta para el proyecto e inicializa un repositorio Git con gitinit.
+	Configura tu nombre y correo en Git, si aún no lo has hecho.
+
+2.	Área de trabajo y zona de preparación:
+	Crea uno o varios archivos de texto simples.
+	Realiza modificaciones y añádelas al stagingarea usando gitadd.
+
+3.	Creación de commits:
+	Confirma los cambios con gitcommit y redacta mensajes descriptivos.
+	Genera varios commits que reflejen una evolución real del proyecto.
+
+4.	Exploración del historial:
+	Consulta el historial con git log y git log --oneline.
+	Identifica los commits más importantes para usarlos en pasos posteriores.
+
+5.	Navegación entre versiones:
+	Usa gitcheckout para visitar versiones anteriores y comprender el funcionamiento del repositorio local.
+
+6.	Navegación entre versiones:
+	Crea una nueva rama, realiza cambios y confirma los commits en ella.
+	Vuelve a main y fusiona la rama mediante gitmerge.
+
+7.	Resolución básica de conflictos:
+	Opcionalmente, provoca un conflicto modificando la misma línea en dos ramas distintas.
+	Resuélvelo manualmente y confirma el merge.
+8.	Etiquetado de versiones:
+	Crea un tag que marque una versión estable (por ejemplo, v1.0) mediante git tag.
+
+9.	Conexión con repositorio remoto (opcional):
+	Crea un repositorio en GitHub y conéctalo al proyecto.
+	Realiza push y pull para probar la sincronización.
+
+10.	Informe final:
+Redacta un documento explicando cada paso realizado, incluyendo:
+•	Comandos utilizados.
+•	Capturas de la terminal.
+•	Breve reflexión sobre lo aprendido.
